@@ -1,0 +1,17 @@
+scrcpy 5.0.1
+adb 37.0.1
+
+Linux x86_64:
+  tools/linux/scrcpy
+  tools/linux/adb
+  tools/linux/scrcpy-server
+
+Windows x64:
+  tools/windows/scrcpy-win64-v5.0.1/scrcpy.exe
+  tools/windows/scrcpy-win64-v5.0.1/adb.exe
+  tools/windows/scrcpy-win64-v5.0.1/scrcpy-server
+
+Sources:
+  https://github.com/Genymobile/scrcpy/releases/tag/v5.0.1
+Windows SHA256:
+  b12a2c4ee8be317422451fc7dcf8ee20a71b5ea7ef9ad73ddd825a25316227a5  scrcpy-win64-v5.0.1.zip
